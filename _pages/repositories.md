@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: My repos about research. If you are also interested in LaTeX and counting key tapping, please refer to my github :)
 nav: true
 nav_order: 3
 ---
